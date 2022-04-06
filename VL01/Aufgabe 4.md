@@ -12,7 +12,7 @@ static void foo(){
 ```
 
 Hier wird klar, dass der Ausdruck `new` ein neues Auto erzeugt.
-Somit sind es 4 neu erzeugte Autos.
+Somit sind es 3 neu erzeugte Autos.
 
 ## (b)
 > Welchen Wert liefert dann der folgende Ausdruck? `(meinAuto == franksAuto)`

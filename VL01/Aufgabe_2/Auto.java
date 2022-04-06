@@ -14,7 +14,7 @@ class Auto {
   }
 
   Auto(int baujahr) {
-    this.baujahr = baujahr;
+    this("", baujahr);
   }
 
   // ? Methods
