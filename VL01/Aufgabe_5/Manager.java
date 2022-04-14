@@ -6,7 +6,7 @@ public class Manager extends Angestellter {
   private double bonus;
 
   // ? Konstruktor
-  Manager(String name, double monatsgehalt, double bonus) {
+  public Manager(String name, double monatsgehalt, double bonus) {
     // ? Gib name und monatsgehalt an den Konstruktor der Superklasse Angestellter
     super(name, monatsgehalt);
 
