@@ -1,7 +1,6 @@
 package VL02;
 
 import VL01.Aufgabe_5.Angestellter;
-import VL01.Aufgabe_5.Manager;
 
 public class testing {
 
